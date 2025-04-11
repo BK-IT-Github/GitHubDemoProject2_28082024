@@ -3,4 +3,11 @@
   <groupId>9a_15_GitHubDemoProject2_28082024</groupId>
   <artifactId>9a_15_GitHubDemoProject2_28082024</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>4_SeleniumProjectWithTestNg_Maven</groupId>
+  		<artifactId>4_SeleniumProjectWithTestNg_Maven</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
