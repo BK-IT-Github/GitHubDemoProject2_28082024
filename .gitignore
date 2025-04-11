@@ -1,1 +1,28 @@
+# Maven build folder
 /target/
+
+# Eclipse IDE files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Logs, reports, screenshots, etc.
+*.log
+*.html
+*.xml
+/test-output/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper
+/.mvn/
+
+
+#This will ignore the bin directory and everything inside it.
+/bin/
